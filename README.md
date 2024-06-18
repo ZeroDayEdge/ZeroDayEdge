@@ -1,5 +1,5 @@
-<div class="center">
-  <img src="https://avatars.githubusercontent.com/u/171726472?v=4" alt="Profile Picture" height="230">
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/171726472?v=4" alt="Profile Picture" style="border-radius:50%" height="230">
   <h1>Hi 👋, I'm ZeroDayEdge</h1>
 </div>
 
